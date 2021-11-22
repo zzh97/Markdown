@@ -1,11 +1,5 @@
 # markdown
 
-From 2018
-
-Update every year
-
-By  Diary_Day
-
 ## Project Introduction
 
 This is a Markdown-Web-Edit (include Latex)
